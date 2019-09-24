@@ -9,13 +9,13 @@
 ## Outline
 
 * **Premise**:
-    - You don't learn syntax of e.g. Python; you get used to it.
+    - You don't learn the syntax of Python (or any language, for that matter); you get used to it because you need to.
     - You don't need to learn everything about Python to do anything.
-    - You want to do well on your final project, not become a Python programmer.
-* Part 1: Python Basics
+    - You want to do well on your final project, not necessarily become a Python programmer.
+* Part 1: Python basics
 * Part 2: Applications
-    - (a) topic modeling with MALLET
-    - (b) vector semantics 
+    - (a) Topic modeling with MALLET
+    - (b) Vector semantics 
 
 ## After class
 
