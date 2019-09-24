@@ -8,10 +8,16 @@
 
 ## After class
 
-1. You can download the notebooks onto your machine:
+1. Install the necessary packages (you can do this in an `virtualenv`):
+
+```
+pip install -r requirements.txt
+```
+
+2. You can download the notebooks onto your machine:
 
 ```
 git clone https://github.com/kentchang/lssp-lab.git
 ```
 
-2. Set up mallet: see [this](http://mallet.cs.umass.edu/download.php).
+3. Set up mallet: see [this](http://mallet.cs.umass.edu/download.php).
