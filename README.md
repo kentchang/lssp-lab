@@ -8,7 +8,7 @@
 
 ## Outline
 
-* **Premise**:
+* **Premises**:
     - You don't learn the syntax of Python (or any language, for that matter); you get used to it because you need to.
     - You don't need to learn everything about Python to do anything.
     - You want to do well on your final project, not necessarily become a Python programmer.
